@@ -1,0 +1,42 @@
+body {margin: 0;  background-color: rgb(220, 255, 210);  background-image:url("http://i02.pictn.sogoucdn.com/bc5769411baf1b87");}
+<!--img{max-width: 100%;}-->
+img{max-width:  500px}
+button{cursor: pointer}
+header{background-color:rgb(100,200,100); padding: 0 ;margin: 0; }
+footer{background: #000; color: #fff; text-align: center; line-height: 6em}
+
+article{width: 85%; margin:auto;padding: 30px; margin-top: 20px; background-color: #fff; box-shadow: 2px 2px 2px #aaa;}
+article h1{font-size: 1.5em; color: #000000}
+article h2{font-size: 1.3em; color: #787878}
+article .author{font-size: 0.9em;color: #A0A0A0}
+article p{text-indent: 2em; font-size: 15px; line-height:150%}
+
+
+.main .logo_img{width: 150px; margin-left: 60px; margin-bottom : 8px; margin-top:8px}
+.main.a{}
+.main{position: relative;}
+.nav{margin: 0; padding:0; position: absolute; list-style-position: inside; right: 0; top: 50%; 
+margin-top: -0.6em; font-size: 14px;margin-right: 50px}
+.nav li{float: left; margin-left: 3em}
+.nav a{color: #fff; text-decoration: none}
+
+.picture_img  li { width: 120px; border: 1px #ccc solid; box-sizing: border-box; padding: 0 10px 10px 10px; text-align: center; 
+ margin-bottom: 20px;}
+.picture_img  h2{font-size:15px;color:black}
+.picture_img img{max-width:100px}
+
+table {width: 100%; text-align: left ;border-collapse:collapse;}
+table tr.top{color: #fff;  background-color: #484848;}
+table tr.bottom{ background-color: #C8C8C8;}
+table tr.normal{font-size:13px; font-family: 微软雅黑}
+
+aside{width: 85%; margin:auto;padding: 30px; margin-top: 20px; background-color: #fff; box-shadow: 2px 2px 2px #aaa; margin-bottom: 20px;}
+aside h1{border-left: 3px #ccc solid; line-height: 2em; padding-left: 10px; font-size:20px}
+aside .input_mail{padding-left: 21em; }
+aside .input_text{padding-left: 36em; color:#909090; font-size:13px;}
+aside .input_password{padding-left: 23em;}
+aside .input_password_agin{padding-left: 21em;}
+aside .gender{padding-left: 26em;}
+aside .dis{ vertical-align: top;  padding-left: 24em;}
+aside .submit{width: 100%; height:40px; background-color:#006666; color:white; border-radius:15px;
+font-size:18px;}
